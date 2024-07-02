@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Raisa Islam</h1>
+<img src="./image.png" alt="raisa-islam" />
 <h3 align="center">A passionate developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raisa-islam&label=Profile%20views&color=0e75b6&style=flat" alt="raisa-islam" /> </p>
