@@ -12,4 +12,4 @@
 
 <p><img width=325 align="center" src="https://github-readme-stats-rose-three-42.vercel.app/api/top-langs/?username=Raisa-islam&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&hide=python" alt="top langs" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raisa-islam&" alt="raisa-islam" /></p>
+<p><img width=390 align="center" src="https://github-readme-streak-stats-eight-blush.vercel.app/?user=Raisa-islam&theme=vue-dark&hide_border=true" alt="streak stats"/></p>
